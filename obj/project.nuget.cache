@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7huhPPLmbw=",
+  "dgSpecHash": "GXGHxtQMAKk=",
   "success": true,
-  "projectFilePath": "E:\\My Projcts\\coding\\asp.net\\MyMvcProject\\MyMvcProject.csproj",
+  "projectFilePath": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\MyMvcProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NEW\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.13\\microsoft.entityframeworkcore.8.0.13.nupkg.sha512",
     "C:\\Users\\NEW\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.13\\microsoft.entityframeworkcore.abstractions.8.0.13.nupkg.sha512",
