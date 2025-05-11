@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uQ8lhqmHBFYaBfsYQf49PcUnF0RWFyDyjoo9wcIe8RI=",
+  "Hash": "5YlJBMB8TApHaevt7F49vBwdOzrbKiWgkYH6mM682aU=",
   "Source": "MyMvcProject",
   "BasePath": "_content/MyMvcProject",
   "Mode": "Default",
@@ -4385,6 +4385,237 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde5ed7cd27_3.jpg",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/67cde5ed7cd27_3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hp7ln5aq9",
+      "Integrity": "ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\67cde5ed7cd27_3.jpg"
+    },
+    {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde5ee6465d_Yalda.mp3",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/67cde5ee6465d_Yalda#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g19t6q1wsy",
+      "Integrity": "/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\67cde5ee6465d_Yalda.mp3"
+    },
+    {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde711d25d4_3.jpg",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/67cde711d25d4_3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hp7ln5aq9",
+      "Integrity": "ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\67cde711d25d4_3.jpg"
+    },
+    {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde712ba5d7_Yalda.mp3",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/67cde712ba5d7_Yalda#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g19t6q1wsy",
+      "Integrity": "/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\67cde712ba5d7_Yalda.mp3"
+    },
+    {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde796376c6_3.jpg",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/67cde796376c6_3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hp7ln5aq9",
+      "Integrity": "ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\67cde796376c6_3.jpg"
+    },
+    {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde7971c1d3_Yalda.mp3",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/67cde7971c1d3_Yalda#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g19t6q1wsy",
+      "Integrity": "/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\67cde7971c1d3_Yalda.mp3"
+    },
+    {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cf96499ad41_2.jpg",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/67cf96499ad41_2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s90iec8ukd",
+      "Integrity": "4E/f0muRQzJmJ+5P0UHZ0gR161sm2EGn3frWWqpgAoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\67cf96499ad41_2.jpg"
+    },
+    {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cf964a697fe_lajan.mp3",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/67cf964a697fe_lajan#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "97ytjf73g9",
+      "Integrity": "ZRGkckrDZMlssLPhfqxfXKv2390bRSu+kR5NATSm63A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\67cf964a697fe_lajan.mp3"
+    },
+    {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cfa8fb78c86_1.png",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/67cfa8fb78c86_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pdaac4w2ar",
+      "Integrity": "8xDGz55JNY/r0ljD1tBDCYePqOPl9kMsOunaSo5wMw0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\67cfa8fb78c86_1.png"
+    },
+    {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cfa8fbbdb3f_Hall.mp3",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/67cfa8fbbdb3f_Hall#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "88da4ib163",
+      "Integrity": "iKJc5f2IJhGC1iyix+JGFSAINMSjWK1+zWVnXZfPDvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\67cfa8fbbdb3f_Hall.mp3"
+    },
+    {
+      "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\68036a0dae96a_photo_2025-04-11_16-55-35.jpg",
+      "SourceId": "MyMvcProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\",
+      "BasePath": "_content/MyMvcProject",
+      "RelativePath": "Upload/68036a0dae96a_photo_2025-04-11_16-55-35#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uqb49bnaun",
+      "Integrity": "drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\68036a0dae96a_photo_2025-04-11_16-55-35.jpg"
+    },
+    {
       "Identity": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\68036a50dd58e_photo_2025-04-11_16-55-35.jpg",
       "SourceId": "MyMvcProject",
       "SourceType": "Discovered",
@@ -4399,8 +4630,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rrfnauc1zv",
-      "Integrity": "ac4tJDhv7n2NqUYGT7R0/N4C/NhHl117XPyp83sKf+w=",
+      "Fingerprint": "uqb49bnaun",
+      "Integrity": "drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Upload\\68036a50dd58e_photo_2025-04-11_16-55-35.jpg"
@@ -30576,6 +30807,908 @@
       ]
     },
     {
+      "Route": "Upload/67cde5ed7cd27_3.3hp7ln5aq9.jpg",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde5ed7cd27_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5220507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hp7ln5aq9"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/67cde5ed7cd27_3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde5ed7cd27_3.jpg",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde5ed7cd27_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5220507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde5ee6465d_Yalda.g19t6q1wsy.mp3",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde5ee6465d_Yalda.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6407370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g19t6q1wsy"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/67cde5ee6465d_Yalda.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde5ee6465d_Yalda.mp3",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde5ee6465d_Yalda.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6407370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde711d25d4_3.3hp7ln5aq9.jpg",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde711d25d4_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5220507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hp7ln5aq9"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/67cde711d25d4_3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde711d25d4_3.jpg",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde711d25d4_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5220507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde712ba5d7_Yalda.g19t6q1wsy.mp3",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde712ba5d7_Yalda.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6407370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g19t6q1wsy"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/67cde712ba5d7_Yalda.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde712ba5d7_Yalda.mp3",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde712ba5d7_Yalda.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6407370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde796376c6_3.3hp7ln5aq9.jpg",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde796376c6_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5220507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hp7ln5aq9"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/67cde796376c6_3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde796376c6_3.jpg",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde796376c6_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5220507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde7971c1d3_Yalda.g19t6q1wsy.mp3",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde7971c1d3_Yalda.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6407370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g19t6q1wsy"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/67cde7971c1d3_Yalda.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cde7971c1d3_Yalda.mp3",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cde7971c1d3_Yalda.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6407370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cf96499ad41_2.jpg",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cf96499ad41_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4584660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4E/f0muRQzJmJ+5P0UHZ0gR161sm2EGn3frWWqpgAoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4E/f0muRQzJmJ+5P0UHZ0gR161sm2EGn3frWWqpgAoA="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cf96499ad41_2.s90iec8ukd.jpg",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cf96499ad41_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4584660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4E/f0muRQzJmJ+5P0UHZ0gR161sm2EGn3frWWqpgAoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s90iec8ukd"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/67cf96499ad41_2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4E/f0muRQzJmJ+5P0UHZ0gR161sm2EGn3frWWqpgAoA="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cf964a697fe_lajan.97ytjf73g9.mp3",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cf964a697fe_lajan.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7273590"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRGkckrDZMlssLPhfqxfXKv2390bRSu+kR5NATSm63A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "97ytjf73g9"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/67cf964a697fe_lajan.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRGkckrDZMlssLPhfqxfXKv2390bRSu+kR5NATSm63A="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cf964a697fe_lajan.mp3",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cf964a697fe_lajan.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7273590"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRGkckrDZMlssLPhfqxfXKv2390bRSu+kR5NATSm63A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRGkckrDZMlssLPhfqxfXKv2390bRSu+kR5NATSm63A="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cfa8fb78c86_1.pdaac4w2ar.png",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cfa8fb78c86_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1735356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8xDGz55JNY/r0ljD1tBDCYePqOPl9kMsOunaSo5wMw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pdaac4w2ar"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/67cfa8fb78c86_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8xDGz55JNY/r0ljD1tBDCYePqOPl9kMsOunaSo5wMw0="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cfa8fb78c86_1.png",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cfa8fb78c86_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1735356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8xDGz55JNY/r0ljD1tBDCYePqOPl9kMsOunaSo5wMw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8xDGz55JNY/r0ljD1tBDCYePqOPl9kMsOunaSo5wMw0="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cfa8fbbdb3f_Hall.88da4ib163.mp3",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cfa8fbbdb3f_Hall.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8858700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iKJc5f2IJhGC1iyix+JGFSAINMSjWK1+zWVnXZfPDvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "88da4ib163"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/67cfa8fbbdb3f_Hall.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iKJc5f2IJhGC1iyix+JGFSAINMSjWK1+zWVnXZfPDvY="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/67cfa8fbbdb3f_Hall.mp3",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\67cfa8fbbdb3f_Hall.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8858700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iKJc5f2IJhGC1iyix+JGFSAINMSjWK1+zWVnXZfPDvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iKJc5f2IJhGC1iyix+JGFSAINMSjWK1+zWVnXZfPDvY="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/68036a0dae96a_photo_2025-04-11_16-55-35.jpg",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\68036a0dae96a_photo_2025-04-11_16-55-35.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 09:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/68036a0dae96a_photo_2025-04-11_16-55-35.uqb49bnaun.jpg",
+      "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\68036a0dae96a_photo_2025-04-11_16-55-35.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 09:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uqb49bnaun"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/68036a0dae96a_photo_2025-04-11_16-55-35.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk="
+        }
+      ]
+    },
+    {
       "Route": "Upload/68036a50dd58e_photo_2025-04-11_16-55-35.jpg",
       "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\68036a50dd58e_photo_2025-04-11_16-55-35.jpg",
       "Selectors": [],
@@ -30586,7 +31719,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1132313"
+          "Value": "79749"
         },
         {
           "Name": "Content-Type",
@@ -30594,11 +31727,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ac4tJDhv7n2NqUYGT7R0/N4C/NhHl117XPyp83sKf+w=\""
+          "Value": "\"drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 07:21:42 GMT"
+          "Value": "Sat, 19 Apr 2025 09:18:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30608,12 +31741,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ac4tJDhv7n2NqUYGT7R0/N4C/NhHl117XPyp83sKf+w="
+          "Value": "sha256-drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk="
         }
       ]
     },
     {
-      "Route": "Upload/68036a50dd58e_photo_2025-04-11_16-55-35.rrfnauc1zv.jpg",
+      "Route": "Upload/68036a50dd58e_photo_2025-04-11_16-55-35.uqb49bnaun.jpg",
       "AssetFile": "E:\\My Projcts\\coding\\learning git\\asp.net\\MyMvcProject\\wwwroot\\Upload\\68036a50dd58e_photo_2025-04-11_16-55-35.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -30623,7 +31756,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1132313"
+          "Value": "79749"
         },
         {
           "Name": "Content-Type",
@@ -30631,11 +31764,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ac4tJDhv7n2NqUYGT7R0/N4C/NhHl117XPyp83sKf+w=\""
+          "Value": "\"drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 07:21:42 GMT"
+          "Value": "Sat, 19 Apr 2025 09:18:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30645,7 +31778,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rrfnauc1zv"
+          "Value": "uqb49bnaun"
         },
         {
           "Name": "label",
@@ -30653,7 +31786,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ac4tJDhv7n2NqUYGT7R0/N4C/NhHl117XPyp83sKf+w="
+          "Value": "sha256-drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk="
         }
       ]
     }

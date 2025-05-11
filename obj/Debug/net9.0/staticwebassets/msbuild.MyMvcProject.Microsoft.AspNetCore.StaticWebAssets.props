@@ -2502,6 +2502,204 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MyMvcProject.066ot314b1.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde5ed7cd27_3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/67cde5ed7cd27_3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3hp7ln5aq9</Fingerprint>
+      <Integrity>ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde5ed7cd27_3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde5ee6465d_Yalda.mp3'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/67cde5ee6465d_Yalda.mp3</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g19t6q1wsy</Fingerprint>
+      <Integrity>/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde5ee6465d_Yalda.mp3'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde711d25d4_3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/67cde711d25d4_3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3hp7ln5aq9</Fingerprint>
+      <Integrity>ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde711d25d4_3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde712ba5d7_Yalda.mp3'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/67cde712ba5d7_Yalda.mp3</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g19t6q1wsy</Fingerprint>
+      <Integrity>/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde712ba5d7_Yalda.mp3'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde796376c6_3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/67cde796376c6_3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3hp7ln5aq9</Fingerprint>
+      <Integrity>ScLDftwM5tjcWXCYP8ESqEdSueNYIwQ1/XpDfVq/jdY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde796376c6_3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde7971c1d3_Yalda.mp3'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/67cde7971c1d3_Yalda.mp3</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g19t6q1wsy</Fingerprint>
+      <Integrity>/K4RRa6Wm6ni+LBibwbgOxVbrfxOlH/q7OCcDS+51rQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cde7971c1d3_Yalda.mp3'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cf96499ad41_2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/67cf96499ad41_2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>s90iec8ukd</Fingerprint>
+      <Integrity>4E/f0muRQzJmJ+5P0UHZ0gR161sm2EGn3frWWqpgAoA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cf96499ad41_2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cf964a697fe_lajan.mp3'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/67cf964a697fe_lajan.mp3</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>97ytjf73g9</Fingerprint>
+      <Integrity>ZRGkckrDZMlssLPhfqxfXKv2390bRSu+kR5NATSm63A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cf964a697fe_lajan.mp3'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cfa8fb78c86_1.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/67cfa8fb78c86_1.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pdaac4w2ar</Fingerprint>
+      <Integrity>8xDGz55JNY/r0ljD1tBDCYePqOPl9kMsOunaSo5wMw0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cfa8fb78c86_1.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cfa8fbbdb3f_Hall.mp3'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/67cfa8fbbdb3f_Hall.mp3</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>88da4ib163</Fingerprint>
+      <Integrity>iKJc5f2IJhGC1iyix+JGFSAINMSjWK1+zWVnXZfPDvY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\67cfa8fbbdb3f_Hall.mp3'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\68036a0dae96a_photo_2025-04-11_16-55-35.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyMvcProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyMvcProject</BasePath>
+      <RelativePath>Upload/68036a0dae96a_photo_2025-04-11_16-55-35.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uqb49bnaun</Fingerprint>
+      <Integrity>drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\68036a0dae96a_photo_2025-04-11_16-55-35.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\68036a50dd58e_photo_2025-04-11_16-55-35.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>MyMvcProject</SourceId>
@@ -2514,8 +2712,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rrfnauc1zv</Fingerprint>
-      <Integrity>ac4tJDhv7n2NqUYGT7R0/N4C/NhHl117XPyp83sKf+w=</Integrity>
+      <Fingerprint>uqb49bnaun</Fingerprint>
+      <Integrity>drlhHLYs8X9D96o23V4NJr11k0M6V57sC+mzMOL2mqk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\68036a50dd58e_photo_2025-04-11_16-55-35.jpg'))</OriginalItemSpec>

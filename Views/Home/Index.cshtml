@@ -26,9 +26,10 @@
                 <img src="Images/end.jpg" alt="poster of music" class="fimage  rounded-3xl border-2  shadow-lg shadow-violet-500/50 border-white">
                 <div class="property-f-Music">
                     <h1>
-                        <a name="firstMusic" class="ali">
+                        <a name="firstMusic" class="ali text-white no-underline">
                             موزیک رادین
                         </a>
+                    
     
                     </h1>
                     <p class="discrip"> موزیک های سبک رپ،آر اند بی(R&B)،هیپ هاپ اختصاصی رادین</p>
@@ -55,145 +56,66 @@
                 <h2>
                     سه موزیک اخیر
                 </h2>
-                    
-                <div class="topMusic lamp active song view-button"  data-src="@Model.Musics[0].MusicPath" data-poster="@Model.Musics[0].PosterPath" data-name="@Model.Musics[0].Name"
-                 data-album="@Model.Musics[0].AlbumNumber" onclick="addView(@Model.Musics[0].Id)" >   
-                           <div class="poster-property">
-    
-                               <span class="num">
-                                01
-                               </span>
-                               <img src="<?php echo $musics[0]['poster'] ?>" alt="" class="hiddenposter">
-                               <div class="propertyTopMusic">
-               <a id="p1" name="p1">
-    
-    
-                   <h3 id="tiitle-1" name="tiitle-1" style="margin-top: 300px !important;">@Model.Musics[0].Name</h3>
-               </a>
-                               <p class="p"></p>
-                               </div>
-                               <div class="gifcont">
-                                <img src="Images/Mplay.png" alt="" class="gifplay">
-                               </div>
-    
-                           </div> 
-                           <div class="like-time">
-                               <p></p>
-                               <div class="like-play">
-    <?php
-                        $isLiked = in_array($musics[0]['ID'], $likedMusic);
-                        
-                        echo "<button class='likebutton' onclick='toggleLike(" . $musics[0]['ID'] . ")'>
-                        
-                                <span id='heart" . $musics[0]['ID'] . "'>" . ($isLiked ? '🧡' : '🤍') . "</span>
-                              </button>";
-                              
-                        
-    ?>
-                                   <button class="stopdown">
-    
-                                       <img src="Images/icons/play2.png" alt="" class="imgplay">
-                                   </button>
-                               </div>
-                            </div>  
-                            <div class="view-like"><p>تعداد بازدید: <span id='views-<?php echo $musics[0]['ID'] ?> '><?php  echo $musics[0]['view']  ?></span></p>
-    
-                             <p>تعداد لایک ها:<span id='likes<?php echo $musics[0]['ID'] ?>'><?php  echo $musics[0]['likes']  ?></span> </p>
-                            </div>
-                </div>
-                <div class="topMusic lamp active song view-button"  data-src="@Model.Musics[0].MusicPath" data-poster="<?php echo $musics[0]['poster'] ?>" data-name="<?php echo $musics[0]['name'] ?>"
-                 data-album="<?php echo $albums[0]['name'] ?>" onclick="addView(<?php echo $musics[0]['ID']; ?>)" >   
-                           <div class="poster-property">
-    
-                               <span class="num">
-                                01
-                               </span>
-                               <img src="<?php echo $musics[0]['poster'] ?>" alt="" class="hiddenposter">
-                               <div class="propertyTopMusic">
-               <a id="p1" name="p1">
-    
-    
-                   <h3 id="tiitle-1" name="tiitle-1" style="margin-top: 300px !important;">@Model.Musics[0].Name</h3>
-               </a>
-                               <p class="p"><?php echo $albums[0]['name'] ?></p>
-                               </div>
-                               <div class="gifcont">
-                                <img src="Images/Mplay.png" alt="" class="gifplay">
-                               </div>
-    
-                           </div> 
-                           <div class="like-time">
-                               <p><?php echo $musics[0]['time'] ?></p>
-                               <div class="like-play">
-    <?php
-                        $isLiked = in_array($musics[0]['ID'], $likedMusic);
-                        
-                        echo "<button class='likebutton' onclick='toggleLike(" . $musics[0]['ID'] . ")'>
-                        
-                                <span id='heart" . $musics[0]['ID'] . "'>" . ($isLiked ? '🧡' : '🤍') . "</span>
-                              </button>";
-                              
-                        
-    ?>
-                                   <button class="stopdown">
-    
-                                       <img src="Images/icons/play2.png" alt="" class="imgplay">
-                                   </button>
-                               </div>
-                            </div>  
-                            <div class="view-like"><p>تعداد بازدید: <span id='views-<?php echo $musics[0]['ID'] ?> '><?php  echo $musics[0]['view']  ?></span></p>
-    
-                             <p>تعداد لایک ها:<span id='likes<?php echo $musics[0]['ID'] ?>'><?php  echo $musics[0]['likes']  ?></span> </p>
-                            </div>
-                </div>
-                <div class="topMusic lamp active song view-button"  data-src="@Model.Musics[0].MusicPath" data-poster="<?php echo $musics[0]['poster'] ?>" data-name="<?php echo $musics[0]['name'] ?>"
-                 data-album="<?php echo $albums[0]['name'] ?>" onclick="addView(<?php echo $musics[0]['ID']; ?>)" >   
-                           <div class="poster-property">
-    
-                               <span class="num">
-                                01
-                               </span>
-                               <img src="<?php echo $musics[0]['poster'] ?>" alt="" class="hiddenposter">
-                               <div class="propertyTopMusic">
-               <a id="p1" name="p1">
-    
-    
-                   <h3 id="tiitle-1" name="tiitle-1" style="margin-top: 300px !important;">@Model.Musics[0].Name</h3>
-               </a>
-                               <p class="p"><?php echo $albums[0]['name'] ?></p>
-                               </div>
-                               <div class="gifcont">
-                                <img src="Images/Mplay.png" alt="" class="gifplay">
-                               </div>
-    
-                           </div> 
-                           <div class="like-time">
-                               <p><?php echo $musics[0]['time'] ?></p>
-                               <div class="like-play">
-    <?php
-                        $isLiked = in_array($musics[0]['ID'], $likedMusic);
-                        
-                        echo "<button class='likebutton' onclick='toggleLike(" . $musics[0]['ID'] . ")'>
-                        
-                                <span id='heart" . $musics[0]['ID'] . "'>" . ($isLiked ? '🧡' : '🤍') . "</span>
-                              </button>";
-                              
-                        
-    ?>
-                                   <button class="stopdown">
-    
-                                       <img src="Images/icons/play2.png" alt="" class="imgplay">
-                                   </button>
-                               </div>
-                            </div>  
-                            <div class="view-like"><p>تعداد بازدید: <span id='views-<?php echo $musics[0]['ID'] ?> '><?php  echo $musics[0]['view']  ?></span></p>
-    
-                             <p>تعداد لایک ها:<span id='likes<?php echo $musics[0]['ID'] ?>'><?php  echo $musics[0]['likes']  ?></span> </p>
-                            </div>
-                </div>
-                
-    
+                @for (int i = 0; i < Model.Musics.Count; i++)
+                    {
+                        var music = Model.Musics[i];
+                        var album = Model.Albums[0];
+
+                        if (i == 1)
+                    {
+                        @:<div class="grid grid-cols-2 w-full">
+                    }
+
+    <div class="topMusic lamp active song view-button"
+         data-src="@music.MusicPath"
+         data-poster="@music.PosterPath"
+         data-name="@music.Name"
+         data-album="@album.Name"
+         onclick="addView(@music.Id)">
+        <div class="poster-property">
+            <span class="num">
+                @i
+            </span>
+            <img src="@music.PosterPath" alt="" class="hiddenposter">
+            <div class="propertyTopMusic">
+                <a id="p1" name="p1">
+                    <h3>@music.Name</h3>
+                </a>
+                <p class="p">@album.Name</p>
             </div>
+            <div class="gifcont">
+                <img src="Images/Mplay.png" alt="" class="gifplay">
+            </div>
+        </div>
+        <div class="like-time">
+            <p>@music.Time</p>
+            <div class="like-play">
+@* @{
+    bool isLiked = Model.LikedMusicIds.Contains(music.Id);
+}
+<button class="likebutton" onclick="toggleLike(@music.Id)">
+    <span id="@($"heart{music.Id}")">@(isLiked ? "🧡" : "🤍")</span>
+
+
+
+                </button> *@
+
+                <button class="stopdown">
+                    <img src="Images/icons/play2.png" alt="" class="imgplay">
+                </button>
+            </div>
+        </div>
+        <div class="view-like">
+            <p>تعداد بازدید: <span id="views-@music.Id">@music.View</span></p>
+            <p>تعداد لایک‌ها: <span id="@($"likes{music.Id}")">@music.Like</span></p>
+        </div>
+    </div>
+
+    if (i == 2)
+    {
+        @:</div>
+    }
+}
             <!-- Albums  -->
             <a class="text-for-slider ali" name="Albums">
                 
@@ -264,3 +186,13 @@
     
             
             </div>
+
+
+
+
+            @section Scripts{
+
+                <script>
+
+</script>
+            }

@@ -5,5 +5,6 @@ namespace MyMvcProject.Models
     {
         public required List<Album> Albums { get; set; }
         public required List<Music> Musics { get; set; }
+        
     }
 }

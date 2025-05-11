@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@model MyMvcProject.Models.AlbumMusicViewModel
+<!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
     <meta charset="utf-8" />
@@ -124,20 +125,21 @@
 </div>
 </div>
 <footer>
+
     <div id="music-player">
         <div class="p-v">
 
 
             <input type="range" id="volume" min="0" max="1" step="0.1" value="1">
             <div id="poster-container">
-                <img src="<?php echo $musics[0]['poster'] ?>" id="poster" alt="Poster">
+                <img src="@Model.Musics[0].PosterPath" id="poster" alt="Poster">
             </div>
         </div>
         <div class="text-container">
-            <h2 class="text"><?php echo $musics[0]['name'] ?></h2>
+            <h2 class="text">@Model.Musics[0].Name</h2>
             <p class="prop"> تغییر</p>
         </div>
-        <audio id="audio" src="<?php echo $musics[0]['Music'] ?>"></audio>
+        <audio id="audio" src="@Model.Musics[0].MusicPath"></audio>
         <div class="btncont">
             <button id="stop"><img src="Images/icons/moraba.png" class="moraba"></button>
             <button id="play-pause"><img src="Images/icons/play.png" id="imgPlay" class="imgplay"></button>
@@ -156,57 +158,8 @@
 
     </div>
 </footer>
-<!-- <script src="Scripts/tailwind.js"></script> -->
-<script>
-    console.log('<?php echo $isLiked ?>');
-                console.log(document.getElementById('likes'+24));
-    function addView(musicId) {
-    console.log('sidsddsddhfkdjf',musicId);
-    fetch('add_view.php', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ music_id: musicId })
-    })
-    .then(response => response.json())
-    .then(data => {
-        if (data.success) {
-            // به‌روزرسانی تعداد بازدیدها در صفحه
-            document.getElementById('views-' + musicId).textContent = data.views;
-        }
-    })
-    .catch(error => {
-        console.error('خطا:', error);
-    });
-}
+<!-- <script src="Scripts/tailwind.js"></script> -->4
 
-function toggleLike(musicId) {
-    fetch('toggle_like.php', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ music_id: musicId })
-    })
-    .then(response => response.json())
-    .then(data => {
-        if (data.success) {
-            // به‌روزرسانی تعداد لایک‌ها و حالت قلب
-            console.log(document.getElementById('likes' + musicId));
-            console.log('likes'+musicId);
-            document.getElementById('likes' + musicId).textContent = data.likes;
-            const heart = document.getElementById('heart' + musicId);
-            heart.textContent = data.liked ? '🧡' : '🤍';
-        }
-    })
-    .catch(error => {
-        console.error('خطا:', error);
-    });
-}
-
-
-</script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
